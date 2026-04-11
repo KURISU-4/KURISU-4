@@ -2,7 +2,7 @@
 
 💻 IT / Junior Programmer  
 🚀 Full Stack Developer | Laravel + React  
-📍 metro Manila, Philippines  
+📍 Metro Manila, Philippines as Junior Programmer
 
 ---
 
@@ -41,13 +41,6 @@
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-
-![Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight)
 
 ---
 
