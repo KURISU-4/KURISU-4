@@ -126,6 +126,9 @@ Typical workflow I use:
 
 ## 🖼️ Screenshots
 ![Screenshot](images/image1.png)
+![Screenshot](images/image2.png)
+![Screenshot](images/image3.png)
+![Screenshot](images/image4.png)
 
 ---
 
@@ -137,5 +140,5 @@ Typical workflow I use:
 
 ---
 
-## 💡 Motto
-> "Build systems that are simple, scalable, and meaningful."
+## 💡 Created By:
+> "Chris John Palamara | Junior Programmer"
