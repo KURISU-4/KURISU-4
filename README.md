@@ -124,8 +124,8 @@ Typical workflow I use:
 
 --- -->
 
-## 🖼️ Screenshots (Example Section)
-You can showcase your system UI here.
+## 🖼️ Screenshots
+![Screenshot](images/image1.png)
 
 ---
 
