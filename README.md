@@ -1,9 +1,9 @@
 # 👋 Hi, I'm Chris John
 
 💻 IT / Programmer  
-🏫 Junior Programmer / Full Stack Developer at Southville International School and Colleges  
+🏫 Junior Programmer / Developer at Southville International School and Colleges  
 🚀 Full Stack Developer (Laravel + React)  
-📍 Metro Manila, Philippines  
+📍 metro Manila, Philippines  
 
 ---
 
@@ -11,32 +11,30 @@
 
 I am an IT professional working in an academic institution, focused on building, maintaining, and improving web-based systems that support school operations and digital workflows.
 
-I specialize in full-stack web development, with strong interest in backend systems, APIs, and scalable application architecture.
-
-I enjoy solving real-world problems through clean and efficient code, and continuously improving my skills in modern development tools and practices.
+I specialize in full-stack web development, backend systems, and API design. I also work with modern tooling, CI/CD pipelines, and automation to improve development efficiency.
 
 ---
 
 ## 🏢 Work Experience
 
 ### 🏫 Southville International School and Colleges
-**Role:** Junior Programmer / Developer  
+**Role:** IT / Developer  
 
 **Responsibilities:**
-- Development and maintenance of internal web systems
-- Support for academic and administrative platforms
-- Database management and optimization
-- Bug fixing and system improvements
-- Assistance in digital transformation projects
+- Development and maintenance of internal systems
+- Supporting academic and administrative platforms
+- Database design and optimization
+- System improvements and debugging
+- Participation in digital transformation initiatives
 
 ---
 
 ## 🏢 Organizations / Affiliations
 
-- 🏫 Southville International School and Colleges (Junior Programmer / Developer)
+- 🏫 Southville International School and Colleges
 - 💻 GitHub Developer Community
 - 🌐 Web Development Practitioner
-- ⚙️ Continuous Learning in Modern Web Technologies
+- ⚙️ Continuous Learning in Modern Technologies
 
 ---
 
@@ -51,6 +49,7 @@ I enjoy solving real-world problems through clean and efficient code, and contin
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ---
 
@@ -64,19 +63,77 @@ I enjoy solving real-world problems through clean and efficient code, and contin
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+---
+
+### 🛠️ Development Tools
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Composer](https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Antigravity](https://img.shields.io/badge/Antigravity-000000?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+### 🤖 AI Tools
+![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+
+---
+
+## 🧱 Architecture (Laravel + CI/CD)
+
+Typical workflow I use:
+
+- 🧑‍💻 Development (Local)
+  - Laravel + Vite + MySQL
+  - Feature branches (Git)
+
+- 🔄 Version Control
+  - Push to GitHub repository
+
+- 🧪 CI (Continuous Integration)
+  - Install dependencies (Composer + npm)
+  - Run tests (PHPUnit)
+  - Build frontend (Vite)
+
+- 🚀 CD (Continuous Deployment)
+  - Trigger on tag / main branch
+  - Deploy to server (Apache/Nginx)
+  - Run migrations
+  - Restart queue workers
+
+<!-- ---
+
+## 📂 Project Showcase (Coming Soon)
+
+### 🔹 Project Name
+**Description:** Short explanation of the project  
+
+**Tech Used:** Laravel, React, MySQL  
+
+**Features:**
+- Feature 1
+- Feature 2
+- Feature 3  
+
+**Preview:**
+![Screenshot](images/project1.png)
+
+--- -->
+
+## 🖼️ Screenshots (Example Section)
+You can showcase your system UI here.
 
 ---
 
 ## 🎯 Interests
 - Web Application Development
 - Backend Systems & APIs
-- Database Design & Optimization
 - CI/CD & Automation
 - System Architecture
-- Clean Code Practices
 
 ---
 
