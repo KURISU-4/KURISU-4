@@ -121,6 +121,7 @@ Typical workflow I use:
 ## 📂 Project Showcase
 
 ### 🔹 Google Users to BIOSTAR API  
+
 **Description:**  
 Developed an automated integration that synchronizes Google Workspace user accounts with the BIOSTAR access control system used for turnstiles. This ensures that user data (employees/students) remains consistent across systems without manual intervention.
 
@@ -135,9 +136,12 @@ Developed an automated integration that synchronizes Google Workspace user accou
 - Streamlined onboarding/offboarding process
 - Enhanced operational efficiency
 
+**Status:** ✅ Deployed  
+
 ---
 
 ### 🔹 SGEN IXL Insights  
+
 **Description:**  
 Built a reporting system that generates monthly performance insights for students using the IXL learning platform. The system aggregates and processes student data to provide meaningful analytics for academic monitoring.
 
@@ -148,13 +152,16 @@ Built a reporting system that generates monthly performance insights for student
 - Exportable reports for administrative use
 
 **Impact:**
-- Helps SGEN Heads and Subject Area Heads to monitor student progress effectively
+- Helps SGEN Heads and Subject Area Heads monitor student progress effectively
 - Supports data-driven academic decisions
-- Saves time on google sheet report preparation
+- Saves time on Google Sheets report preparation
+
+**Status:** ✅ Deployed  
 
 ---
 
 ### 🔹 Employee / Student Clearance System  
+
 **Description:**  
 Developed a web-based clearance management system to handle employee and student clearance processes efficiently. The system digitizes approvals and tracks clearance status across departments.
 
@@ -169,9 +176,12 @@ Developed a web-based clearance management system to handle employee and student
 - Speeds up clearance processing time
 - Improves transparency and accountability
 
+**Status:** ✅ Deployed  
+
 ---
 
 ### 🔹 SISC Document Controller (ISO Documents)  
+
 **Description:**  
 Designed and implemented a centralized document management system for handling ISO-related documents within the institution. The system ensures proper version control, accessibility, and compliance with standards.
 
@@ -185,6 +195,8 @@ Designed and implemented a centralized document management system for handling I
 - Ensures compliance with ISO standards
 - Improves document accessibility and organization
 - Reduces risk of outdated or duplicate documents
+
+**Status:** 🚀 For Deployment  
 
 ---
   
@@ -210,15 +222,15 @@ Currently developing a centralized recruitment and hiring management system for 
 
 ---
 
-### 🔹 Customized OpenSIS Reporting System  
+### 🔹 Customized SGEN OpenSIS Reporting System  
 **Description:**  
 Enhancing and customizing reporting functionalities for OpenSIS to meet specific institutional requirements. The system focuses on generating tailored academic and administrative reports beyond the default capabilities.
 
 **Key Features (Planned / In Progress):**
 - Custom report builder for administrators
 - Student academic performance reports
-- Enrollment and attendance analytics
-- Exportable formats (PDF, Excel)
+- Upload Student Grades
+- Generate Student Grade Cards
 - Data filtering and dynamic queries
 
 **Goal:**
@@ -228,7 +240,7 @@ Enhancing and customizing reporting functionalities for OpenSIS to meet specific
 
 **Status:** 🚧 In Development  
 
----
+
 
 ### 🔹 ...and more projects ongoing...  
 
