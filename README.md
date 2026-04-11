@@ -1,16 +1,42 @@
-# 👋 Hi, I'm Chris John Palaamra
+# 👋 Hi, I'm Chris John
 
-💻 IT / Junior Programmer  
-🚀 Full Stack Developer | Laravel + React  
-📍 Metro Manila, Philippines as Junior Programmer
+💻 IT / Programmer  
+🏫 Junior Programmer / Full Stack Developer at Southville International School and Colleges  
+🚀 Full Stack Developer (Laravel + React)  
+📍 Metro Manila, Philippines  
 
 ---
 
 ## 🧠 About Me
-- 🔭 Building full-stack apps with Laravel + React
-- ⚙️ Exploring CI/CD and DevOps workflows
-- 🧪 Focused on clean, scalable code
-- 📚 Always learning new tech
+
+I am an IT professional working in an academic institution, focused on building, maintaining, and improving web-based systems that support school operations and digital workflows.
+
+I specialize in full-stack web development, with strong interest in backend systems, APIs, and scalable application architecture.
+
+I enjoy solving real-world problems through clean and efficient code, and continuously improving my skills in modern development tools and practices.
+
+---
+
+## 🏢 Work Experience
+
+### 🏫 Southville International School and Colleges
+**Role:** Junior Programmer / Developer  
+
+**Responsibilities:**
+- Development and maintenance of internal web systems
+- Support for academic and administrative platforms
+- Database management and optimization
+- Bug fixing and system improvements
+- Assistance in digital transformation projects
+
+---
+
+## 🏢 Organizations / Affiliations
+
+- 🏫 Southville International School and Colleges (IT / Developer)
+- 💻 GitHub Developer Community
+- 🌐 Web Development Practitioner
+- ⚙️ Continuous Learning in Modern Web Technologies
 
 ---
 
@@ -44,10 +70,15 @@
 
 ---
 
-## 📫 Connect with Me
-- GitHub: https://github.com/KURISU-4
+## 🎯 Interests
+- Web Application Development
+- Backend Systems & APIs
+- Database Design & Optimization
+- CI/CD & Automation
+- System Architecture
+- Clean Code Practices
 
 ---
 
 ## 💡 Motto
-> "Keep building. Keep improving."
+> "Build systems that are simple, scalable, and meaningful."
