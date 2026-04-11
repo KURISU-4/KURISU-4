@@ -138,7 +138,7 @@ Developed an automated integration that synchronizes Google Workspace user accou
 
 **Status:** ✅ Deployed  
 
----
+##
 
 ### 🔹 SGEN IXL Insights  
 
@@ -158,7 +158,7 @@ Built a reporting system that generates monthly performance insights for student
 
 **Status:** ✅ Deployed  
 
----
+##
 
 ### 🔹 Employee / Student Clearance System  
 
@@ -178,7 +178,7 @@ Developed a web-based clearance management system to handle employee and student
 
 **Status:** ✅ Deployed  
 
----
+##
 
 ### 🔹 SISC Document Controller (ISO Documents)  
 
@@ -220,7 +220,7 @@ Currently developing a centralized recruitment and hiring management system for 
 
 **Status:** 🚧 In Development  
 
----
+##
 
 ### 🔹 Customized SGEN OpenSIS Reporting System  
 **Description:**  
