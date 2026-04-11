@@ -33,7 +33,7 @@ I enjoy solving real-world problems through clean and efficient code, and contin
 
 ## 🏢 Organizations / Affiliations
 
-- 🏫 Southville International School and Colleges (IT / Developer)
+- 🏫 Southville International School and Colleges (Junior Programmer / Developer)
 - 💻 GitHub Developer Community
 - 🌐 Web Development Practitioner
 - ⚙️ Continuous Learning in Modern Web Technologies
