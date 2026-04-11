@@ -3,13 +3,13 @@
 💻 IT / Programmer  
 🏫 Junior Programmer / Developer at Southville International School and Colleges  
 🚀 Full Stack Developer (Laravel + React)  
-📍 metro Manila, Philippines  
+📍 Metro Manila, Philippines  
 
 ---
 
 ## 🧠 About Me
 
-I am an IT professional working in an academic institution, focused on building, maintaining, and improving web-based systems that support school operations and digital workflows.
+I am an IT professional working in Southville International School and Colleges, focused on building, maintaining, and improving web-based systems that support school operations and digital workflows.
 
 I specialize in full-stack web development, backend systems, and API design. I also work with modern tooling, CI/CD pipelines, and automation to improve development efficiency.
 
@@ -18,7 +18,7 @@ I specialize in full-stack web development, backend systems, and API design. I a
 ## 🏢 Work Experience
 
 ### 🏫 Southville International School and Colleges
-**Role:** IT / Developer  
+**Role:** Junior Programmer / Developer  
 
 **Responsibilities:**
 - Development and maintenance of internal systems
@@ -31,7 +31,7 @@ I specialize in full-stack web development, backend systems, and API design. I a
 
 ## 🏢 Organizations / Affiliations
 
-- 🏫 Southville International School and Colleges
+- 🏫 Southville International School and Colleges | MIS Team | Software Development Team
 - 💻 GitHub Developer Community
 - 🌐 Web Development Practitioner
 - ⚙️ Continuous Learning in Modern Technologies
@@ -77,6 +77,17 @@ I specialize in full-stack web development, backend systems, and API design. I a
 
 ---
 
+### 🌐 Deployment & Infrastructure
+![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+### ☁️ Cloud & Hosting
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+---
+
 ### 🤖 AI Tools
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
@@ -105,26 +116,125 @@ Typical workflow I use:
   - Run migrations
   - Restart queue workers
 
-<!-- ---
+---
 
-## 📂 Project Showcase (Coming Soon)
+## 📂 Project Showcase
 
-### 🔹 Project Name
-**Description:** Short explanation of the project  
+### 🔹 Google Users to BIOSTAR API  
+**Description:**  
+Developed an automated integration that synchronizes Google Workspace user accounts with the BIOSTAR access control system used for turnstiles. This ensures that user data (employees/students) remains consistent across systems without manual intervention.
 
-**Tech Used:** Laravel, React, MySQL  
+**Key Features:**
+- Automated user provisioning and synchronization
+- Integration with Google APIs and BIOSTAR API
+- Real-time or scheduled syncing
+- Reduced manual data entry and errors
 
-**Features:**
-- Feature 1
-- Feature 2
-- Feature 3  
+**Impact:**
+- Improved access control accuracy
+- Streamlined onboarding/offboarding process
+- Enhanced operational efficiency
 
-**Preview:**
-![Screenshot](images/project1.png)
+---
 
---- -->
+### 🔹 SGEN IXL Insights  
+**Description:**  
+Built a reporting system that generates monthly performance insights for students using the IXL learning platform. The system aggregates and processes student data to provide meaningful analytics for academic monitoring.
 
-## 🖼️ Screenshots
+**Key Features:**
+- Automated monthly report generation
+- Student performance tracking and analytics
+- Data visualization for easier interpretation
+- Exportable reports for administrative use
+
+**Impact:**
+- Helps SGEN Heads and Subject Area Heads to monitor student progress effectively
+- Supports data-driven academic decisions
+- Saves time on google sheet report preparation
+
+---
+
+### 🔹 Employee / Student Clearance System  
+**Description:**  
+Developed a web-based clearance management system to handle employee and student clearance processes efficiently. The system digitizes approvals and tracks clearance status across departments.
+
+**Key Features:**
+- Digital clearance workflow
+- Multi-department approval tracking
+- Real-time status monitoring
+- User-friendly interface for staff and students
+
+**Impact:**
+- Eliminates paper-based processes
+- Speeds up clearance processing time
+- Improves transparency and accountability
+
+---
+
+### 🔹 SISC Document Controller (ISO Documents)  
+**Description:**  
+Designed and implemented a centralized document management system for handling ISO-related documents within the institution. The system ensures proper version control, accessibility, and compliance with standards.
+
+**Key Features:**
+- Document version control and tracking
+- Secure access and permission management
+- Centralized repository for ISO documents
+- Audit-ready document organization
+
+**Impact:**
+- Ensures compliance with ISO standards
+- Improves document accessibility and organization
+- Reduces risk of outdated or duplicate documents
+
+---
+  
+- ## 🚧 Ongoing Projects
+
+### 🔹 SISC Talent Acquisition System  
+**Description:**  
+Currently developing a centralized recruitment and hiring management system for the institution. The platform aims to streamline the end-to-end hiring process—from job posting to applicant evaluation and onboarding.
+
+**Key Features (Planned / In Progress):**
+- Job posting and applicant tracking system (ATS)
+- Candidate profile management
+- Interview scheduling and evaluation workflows
+- Role-based access for HR and department heads
+- Document submission and tracking
+
+**Goal:**
+- Digitize and optimize recruitment processes
+- Improve candidate tracking and communication
+- Enhance hiring efficiency and decision-making
+
+**Status:** 🚧 In Development  
+
+---
+
+### 🔹 Customized OpenSIS Reporting System  
+**Description:**  
+Enhancing and customizing reporting functionalities for OpenSIS to meet specific institutional requirements. The system focuses on generating tailored academic and administrative reports beyond the default capabilities.
+
+**Key Features (Planned / In Progress):**
+- Custom report builder for administrators
+- Student academic performance reports
+- Enrollment and attendance analytics
+- Exportable formats (PDF, Excel)
+- Data filtering and dynamic queries
+
+**Goal:**
+- Provide more flexible and detailed reporting tools
+- Support data-driven decisions in academic management
+- Reduce manual report generation workload
+
+**Status:** 🚧 In Development  
+
+---
+
+### 🔹 ...and more projects ongoing...  
+
+---
+
+## 🖼️ Sample Screenshots of SISC Document Controller
 ![Screenshot](images/image1.png)
 ![Screenshot](images/image2.png)
 ![Screenshot](images/image3.png)
