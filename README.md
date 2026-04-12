@@ -3,7 +3,7 @@
 💻 IT / Programmer  
 🏫 Junior Programmer / Developer at Southville International School and Colleges  
 🚀 Full Stack Developer (Laravel + React)  
-📍 Metro Manila, Philippines  
+📍 Las Piñas, Metro Manila, Philippines  
 
 ---
 
