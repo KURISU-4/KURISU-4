@@ -248,7 +248,7 @@ Enhancing and customizing reporting functionalities for OpenSIS to meet specific
 
 ## 🖼️ Sample Screenshots of SISC Document Controller
 ![Screenshot](images/image1.png)
-![Screenshot](images/image2.png)
+![Screenshot](images/images2.png)
 ![Screenshot](images/image3.png)
 ![Screenshot](images/image4.png)
 
