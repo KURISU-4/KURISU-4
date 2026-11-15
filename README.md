@@ -254,7 +254,7 @@ Enhancing and customizing reporting functionalities for OpenSIS to meet specific
 ## Interests
 - Web Application Development
 - Backend Systems & APIs
-- CI/CD & Automation
+- CI/CD & DevOps
 - System Architecture
 
 ---
